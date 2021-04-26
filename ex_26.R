@@ -12,7 +12,8 @@ answer
 #2/
 help(prod)
 prod(3:5,10, na.rm = FALSE)
-#3/su <- 0
+#3/
+su <- 0
 for (i in 1:100){su <- su + i }
 su
 sum(1:100, na.rm = FALSE)
