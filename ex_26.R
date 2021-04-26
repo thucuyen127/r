@@ -5,6 +5,7 @@ for (j in 3: 5) {answer <- j + answer}
 answer 
 answer <- 10
 for (j in 3:5){ answer <- j+answer }
+answer
 answer <- 10
 for (j in 3:5){ answer <- j*answer }
 answer
