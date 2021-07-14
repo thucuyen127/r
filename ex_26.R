@@ -1,6 +1,6 @@
 setwd('C:\\Users\\DELL')
 #1/
-answer <- 0
+answer <- 00
 for (j in 3: 5) {answer <- j + answer}
 answer 
 answer <- 10
